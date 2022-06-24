@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Press+Start+2P&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Comfortaa:wght@300&family=Press+Start+2P&display=swap');
 
 :root {
   --primary-color: #3282B8;
@@ -13,7 +15,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Manrope', sans-serif;
+  font-family:'Comfortaa', cursive;
 }
 
 .navbar {
